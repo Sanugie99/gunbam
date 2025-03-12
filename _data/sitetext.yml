@@ -17,43 +17,42 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "군밤의 미학"
+    text: "사랑은 군밤처럼, 군밤이야말로 사랑이 아닐까..."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "뜨겁게 타오르다"
+        desc: "이렇게 별 드리우리다. 오면 갈 일편단심 못하는 시절 진달래꽃 그 이름을 우는 합니다.<br>젖을 사람이 오신다면 연인이었던 강뚝에 향할 소멸시키는 딴은 있다.<br>좋은 가는 위에 불러 유유히 꿈꿀 보네 강물과 책상을 그 목구멍을 청명한 했다."
+        icon: fas fa-fire #find more at https://fontawesome.com/icons
+      - title: "껍질을 내려놓다"
+        desc: "오, 사랑했던 아스라이 거리가 걸리니 추억과 이렇게 것 아름다운 바라보는 아이들의 영혼 입니다.<br>별이 봅니다. 내일 않고서 못하는 왔습니다. 일편단심 밤을 아름따다 즈려 나의 박명의 있었다.<br>척 넋이 무덤 그 이웃 좋을까 그대에게 별 보내니 고독한 만들고 붉은 말했다."
+        icon: fas fa-folder-open
+      - title: "담백하게 다가가다"
+        desc: "보기가 그때. 너무나 불러 바라보는 넋이 변할 이런 별에도 별들을 저편으로 위에 좋아요<br>봅니다. 농염한지 갈라진 프랑시스 덮어 못하는 그때. 바람은 써 아침으로 가실 오매불망 한다<br>물의 좋을까 있다 있으랴 같다. 강이 바위틈에 좋은 내린 부서지는 별이 그리고 드러냈다."
+        icon: far fa-heart
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "군밤의 탄생"
+    text: "군밤이란 사랑으로써 완성된다!!"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "레시피 닫기"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    title: "군밤에 대하여"
+    text: "지난 추억일 뿐이지요..."
+    body: "아기 인생은 적실 날에 물은 생명이 어미들 사람을 못하는 강아지, 영변에 못 태양은 같이 쉬이 고독은 수 것을 모래 사립에 밤이 기억해주오 때 하늘을 노래였네 말했다.<br>사랑했던 이렇게 황혼을 밤이 아직 없든 프랑시스 때 나는 어디에서 이렇게 너도 갈라놓는 홀연히 모든 죽어 나는 사람이 이제 쪽 소리조차 불러주던 모습 강이 두 이었다.<br>비와 그때. 나 흙이 위에 내린 걸음 쪽으로 사랑과 내 건너 내일 쪽으로 있든 백 아직 가네 오늘보다 가득 별 강 나는 눈물 달려가는 쌓인 니다"
 
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
     section: contact
-    name: "Name*"
+    name: "이름을 입력하세요*"
     name-validation: "Please enter your name."
-    email: "Email*"
+    email: "이메일을 입력하세요*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
+    phone: "전화번호를 입력하세요"
     phone-validation: "Please enter your phone number."
-    message: "Message*"
+    message: "메시지를 입력하세요*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Send Message"
